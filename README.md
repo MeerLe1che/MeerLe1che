@@ -1,5 +1,5 @@
 - 👋 Hi, Ich bin MeerLe1che
-- 👀 Ich lerne zurzeit JavaScript ...
+- 👀 Ich lerne zurzeit JavaScript, sowie Python ...
 
 <!---
 MeerLe1che/MeerLe1che is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
