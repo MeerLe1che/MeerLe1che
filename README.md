@@ -1,12 +1,15 @@
 
 <hr>
 Über Mich
+<br>
 - 👋 Hi, Ich bin MeerLe1che
+<br>
 - 👀 Ich lerne zurzeit JavaScript, sowie Python ...
+<br>
 - 🤖 CoachingZone -> https://discord.gg/HEZTVEhsMh
 
 <hr>
-<center>Mein Workspace:</center>
+<center><b>Mein Workspace:</b></center>
 <br>
 <center>Mainboard: Aorus B550 Elite</center>
 <br>
