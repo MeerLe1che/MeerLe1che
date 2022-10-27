@@ -13,7 +13,7 @@
 <br>
 - 👀 Ich lerne zurzeit JavaScript, sowie Python ...
 <br>
-- 🤖 CoachingZone -> https://discord.gg/HEZTVEhsMh
+- 🤖 Custom Discord Bots? -> https://discord.gg/pucbots
 
 <hr>
 <center><b>Mein Workspace:</b></center>
