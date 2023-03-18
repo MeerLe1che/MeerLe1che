@@ -20,13 +20,13 @@
 <br>
 <center>Mainboard: Aorus B550 Elite</center>
 <br>
-<center>CPU: Ryzen 7 3700x</center>
+<center>CPU: Ryzen 7 3800x</center>
 <br>
 <center>RAM: 32gb Corsair Vengeance</center>
 <br>
 <center>AIO:Arctic Liquid Freezer II 360</center>
 <br>
-<center>GPU: Zotac RTX 2080 Super</center>
+<center>GPU: RTX 3070ti</center>
 <br>
 <center>Case:Lian Li O11 Dynamic XL Asus ROG Edition</center>
 <br>
